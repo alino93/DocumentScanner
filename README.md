@@ -14,4 +14,4 @@ Put the image in the resources folder.
 
 
 ## Requirement:
-install OpenCV as explained in "install OpenCV Guide.pdf"
+Install OpenCV as explained in "install OpenCV Guide.pdf"
