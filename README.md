@@ -1,7 +1,7 @@
 # DocumentScanner
 Automatic document scanner 
 
-Crops, Warps and Transforms a document automatically.
+Crops, Warps and Transforms a document automatically using OpenCV contour detection.
 Put the image in the resources folder.
 
 ### Example:
